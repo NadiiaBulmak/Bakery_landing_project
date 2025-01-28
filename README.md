@@ -17,4 +17,4 @@ A responsive landing page for a bakery, designed to showcase their products and 
 - CSS Animations & Transformations
 
 ## 🚀 Demo
-Check out the live version of the project [here]((https://nadiiabulmak.github.io/Bakery_landing_project/).
+Check out the live version of the project [here](https://nadiiabulmak.github.io/Bakery_landing_project/).
